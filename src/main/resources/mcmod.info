@@ -1,0 +1,16 @@
+[
+{
+  "modid": "littlemaidmobshield",
+  "name": "LMMShield",
+  "description": "Little Maid uses a shield.",
+  "version": "1.0.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["RiceBallSouls"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
